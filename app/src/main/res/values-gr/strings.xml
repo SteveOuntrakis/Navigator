@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Navigator</string>
+    <string name="title_home">Home</string>
+    <string name="title_Navigation">Navigation</string>
+    <string name="title_search">Search</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_settings">Settings</string>
+    <string name="google_maps_api">AIzaSyB-5LEB4nrRNI1EG8yi3VSbIRltX_o6gow</string>
+    <string name="InputLocName">Όνομα Τοποθεσίας</string>
+    <string name="ConfirmLocName">Επιβεβαίωση</string>
+    <string name="clear">Καθαρισμός</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="searchbar">Αναζήτηση Προορισμού</string>
+    <string name="language">Γλώσσα:</string>
+    <string name="SuccessfulSaved">Επιτυχής αποθήκευση τοποθεσίας</string>
+    <string name="PleaseInput">Παρακαλώ εισάγετε τοποθεσία</string>
+    <string name="SuccessfulDeleted">Επιτυχής διαγραφή τοποθεσίας</string>
+    <string name="SuccessfulEdited">Επιτυχής επεξεργασία τοποθεσίας</string>
+    <string name="AlreadyExists">Το όνομα υπάρχει ήδη</string>
+    <string name="my_saved_places">Αποθηκευμένα μέρη</string>
+    <string name="updated">Τελευταία Ενημέρωση:</string>
+    <string name="dark_mode">Σκοτεινή λειτουργία:</string>
+    <string name="apply_changes">αποθηκευση αλλαγων</string>
+    <string name="enable_play_music">Ενεργοποίηση του \'Play Music\':</string>
+    <string name="show_temperature">Παρουσίαση θερμοκρασίας:</string>
+</resources>
